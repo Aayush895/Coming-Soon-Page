@@ -89,7 +89,7 @@ Now that I know how to create a basic form validation, I want to use this acquir
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Aayush895)
+- Frontend Mentor - [@Aayush895](https://www.frontendmentor.io/profile/Aayush895)
 - Twitter - [@JhaAayush895](https://www.twitter.com/JhaAayush895)
 
 
